@@ -14,6 +14,6 @@ const CONFIG = {
     reply: 'salang salang <33333333',
     mess: 'Tuổi mới xinh tươi 🥰. Yêu thương nhiều hơn 😘😘',
     messDesc: 'Hẹn 1 ngày hết dịch bù cho 1 bữa linh đình.',
-    btnAccept: 'Okiiiii lun <3',
+    btnAccept: 'Okiiiii lunn <3',
     messLink: 'https://www.facebook.com/meo.bi.9/'
 }
